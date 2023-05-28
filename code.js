@@ -1,0 +1,1 @@
+//https://teachablemachine.withgoogle.com/models/7Argh_epd/model.json
